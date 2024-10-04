@@ -1,0 +1,1445 @@
+[
+    {
+        "_id": "66b9e49c4d75da94468d4b9b",
+        "img": "https://images.pexels.com/photos/1670732/pexels-photo-1670732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Maasai Mara Safari Adventure",
+        "country": "Kenya",
+        "price": 400000,
+        "duration": "5 days",
+        "shortDescription": "Embark on a thrilling safari in the Maasai Mara National Reserve, renowned for its incredible wildlife sightings and the Great Migration.",
+        "title": "Maasai Mara Safari",
+        "travellersLimit": 5,
+        "durationAndLimit": "5 days / Limited to 5 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Experience the Maasai Mara",
+                "content": "Explore the world-famous Maasai Mara National Reserve, known for its abundant wildlife and dramatic landscapes. Witness the Great Migration if you visit during the migration season."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Great Migration",
+                        "description": "Experience the awe-inspiring Great Migration of wildebeest and zebras as they traverse the plains of the Maasai Mara in search of greener pastures."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Big Five Safari",
+                        "description": "Search for the Big Five – lions, leopards, elephants, buffalo, and rhinos – with guided game drives across diverse habitats."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Hot Air Balloon Ride",
+                        "description": "Enjoy a spectacular hot air balloon ride over the Maasai Mara, providing panoramic views of the savannah and its wildlife."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Cultural Interaction",
+                        "description": "Meet the Maasai people and learn about their traditional culture, crafts, and way of life."
+                    },
+                    {
+                        "id": 5,
+                        "title": "Bush Walks",
+                        "description": "Participate in guided bush walks to explore the flora and smaller wildlife that you might miss on a vehicle safari."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from July to October for the Great Migration and from January to February for calving season."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Nairobi and take a connecting flight or drive to the Maasai Mara National Reserve."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in luxury lodges or tented camps within or near the reserve for an authentic safari experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring binoculars and a good camera for wildlife photography.",
+                            "Pack lightweight clothing and layers for varying temperatures.",
+                            "Follow park regulations and respect wildlife to ensure a safe experience."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Maasai Mara Safari Today",
+                "description": "Embark on an unforgettable safari adventure in the Maasai Mara. Contact us to book your spot and enjoy a wildlife experience of a lifetime.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "Reach out to us for more information or to customize your Maasai Mara safari experience. We're here to assist you with your travel plans."
+                }
+            }
+        ],
+        "reviews": [
+            {
+                "userId": "66bb9d7ccb88fe9cb72805d2",
+                "userName": "Bala A",
+                "rating": 3,
+                "content": "good place",
+                "likes": 2,
+                "dislikes": 0,
+                "likedUsers": [
+                    "66bb9d7ccb88fe9cb72805d2",
+                    "66c2e006bd9b75f1f0f15a14"
+                ],
+                "dislikedUsers": [],
+                "_id": "66bc4c307dea772a74a8c826",
+                "comments": []
+            }
+        ],
+        "__v": 14
+    },
+    {
+        "_id": "66b9eaac4d75da94468d4bfc",
+        "img": "https://images.pexels.com/photos/59989/elephant-herd-of-elephants-african-bush-elephant-africa-59989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Amboseli National Park Safari",
+        "country": "Kenya",
+        "price": 350000,
+        "duration": "4 days",
+        "shortDescription": "Discover Amboseli National Park, famous for its large elephant herds and stunning views of Mount Kilimanjaro.",
+        "title": "Amboseli Safari",
+        "travellersLimit": 8,
+        "durationAndLimit": "4 days / Limited to 8 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Explore Amboseli National Park",
+                "content": "Experience the beauty of Amboseli National Park, home to large herds of elephants and breathtaking views of Mount Kilimanjaro. Enjoy game drives and scenic landscapes."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Elephant Herds",
+                        "description": "Observe large herds of elephants up close in their natural habitat, a highlight of Amboseli."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Mount Kilimanjaro Views",
+                        "description": "Enjoy stunning views of Mount Kilimanjaro, which dominates the park’s landscape."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Bird Watching",
+                        "description": "Discover a variety of bird species, including the endangered shoebill stork."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Maasai Villages",
+                        "description": "Visit local Maasai villages and learn about their traditional way of life."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is during the dry season from June to October for optimal wildlife sightings."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Nairobi and take a connecting flight or drive to Amboseli National Park."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from luxury lodges or tented camps with views of Mount Kilimanjaro."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Carry a pair of binoculars for spotting wildlife.",
+                            "Dress in layers to accommodate varying temperatures.",
+                            "Respect local customs and follow park guidelines."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Amboseli Safari Today",
+                "description": "Join us for a remarkable safari experience in Amboseli National Park. Contact us to book your adventure and witness the beauty of Kenya’s landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more details or to customize your Amboseli safari, reach out to us. We're here to help with your travel arrangements."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 24
+    },
+    {
+        "_id": "66b9ecf74d75da94468d4c04",
+        "img": "https://images.pexels.com/photos/110812/pexels-photo-110812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Lake Nakuru National Park Tour",
+        "country": "Kenya",
+        "price": 500000,
+        "duration": "3 days",
+        "shortDescription": "Explore Lake Nakuru National Park, known for its flocks of flamingos and rhino conservation efforts.",
+        "title": "Lake Nakuru Safari",
+        "travellersLimit": 12,
+        "durationAndLimit": "3 days / Limited to 12 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Lake Nakuru National Park",
+                "content": "Visit Lake Nakuru National Park, famous for its stunning flocks of flamingos and successful rhino conservation projects. Enjoy guided game drives and bird watching."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Flamingo Flocks",
+                        "description": "Witness the incredible sight of thousands of flamingos feeding along the shores of Lake Nakuru."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Rhino Sanctuary",
+                        "description": "Explore the park’s rhino sanctuary, home to both black and white rhinos."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Bird Watching",
+                        "description": "Observe over 400 species of birds in their natural habitat."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Scenic Landscapes",
+                        "description": "Enjoy the picturesque landscapes and diverse ecosystems within the park."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from June to September for ideal weather and wildlife sightings."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Drive from Nairobi or fly into the nearest airstrip and take a transfer to Lake Nakuru National Park."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in lodges or tented camps within the park for a close-to-nature experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring a good camera for bird and wildlife photography.",
+                            "Pack warm clothing as temperatures can drop at night.",
+                            "Adhere to park rules and maintain a respectful distance from wildlife."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Lake Nakuru Safari Today",
+                "description": "Experience the beauty of Lake Nakuru National Park. Contact us to book your safari and witness the stunning wildlife and landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Lake Nakuru tour, reach out to us. We’re ready to help with your plans."
+                }
+            }
+        ],
+        "reviews": [
+            {
+                "userId": "66bb00cd73ef54511908c424",
+                "userName": "Balamurugan A",
+                "rating": 5,
+                "content": "Very good place to visit this place!",
+                "likes": 1,
+                "dislikes": 0,
+                "likedUsers": [
+                    "66bb00cd73ef54511908c424"
+                ],
+                "dislikedUsers": [],
+                "_id": "66bb8d32642b24dcae1a09e5",
+                "comments": []
+            }
+        ],
+        "__v": 2
+    },
+    {
+        "_id": "66b9ee4d4d75da94468d4c11",
+        "img": "https://images.pexels.com/photos/1319516/pexels-photo-1319516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Tsavo National Park Safari",
+        "country": "Kenya",
+        "price": 500000,
+        "duration": "6 days",
+        "shortDescription": "Discover the diverse landscapes and wildlife of Tsavo National Park, one of Kenya’s largest and oldest parks.",
+        "title": "Tsavo Safari",
+        "travellersLimit": 10,
+        "durationAndLimit": "6 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Explore Tsavo National Park",
+                "content": "Venture into Tsavo National Park, known for its diverse landscapes, from savannahs to volcanic hills. Enjoy game drives and spot the unique wildlife of this vast park."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Red Elephants",
+                        "description": "See the famous red elephants of Tsavo, known for their reddish-hued dust-covered coats."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Mzima Springs",
+                        "description": "Visit Mzima Springs, a lush oasis with clear waters where you can see hippos and crocodiles."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Game Drives",
+                        "description": "Experience extensive game drives through Tsavo’s varied terrain and spot a wide range of wildlife."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Scenic Views",
+                        "description": "Enjoy breathtaking views of the park’s diverse landscapes, including volcanic hills and open plains."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is during the dry season from June to October for optimal wildlife viewing."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Drive from Nairobi or fly into a nearby airstrip and transfer to Tsavo National Park."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from lodges and tented camps within or near the park for a memorable safari experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack sunscreen and a hat for sun protection.",
+                            "Bring a good pair of binoculars for wildlife viewing.",
+                            "Respect park regulations and maintain a safe distance from animals."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Tsavo Safari Today",
+                "description": "Embark on an adventure in Tsavo National Park. Contact us to book your safari and discover the diverse landscapes and wildlife.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Tsavo safari, reach out to us. We’re here to help with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 11
+    },
+    {
+        "_id": "66b9eef74d75da94468d4c1e",
+        "img": "https://images.pexels.com/photos/7001092/pexels-photo-7001092.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Serengeti Safari Expedition",
+        "country": "Tanzania",
+        "price": 600000,
+        "duration": "6 days",
+        "shortDescription": "Experience the vast plains of the Serengeti, known for the Great Migration and diverse wildlife.",
+        "title": "Serengeti Safari",
+        "travellersLimit": 10,
+        "durationAndLimit": "6 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Experience the Serengeti",
+                "content": "Explore the Serengeti National Park, renowned for its annual migration of wildebeest and zebras. Enjoy game drives and witness the dramatic wildlife events of the savannah."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Great Migration",
+                        "description": "Witness the iconic Great Migration, where millions of wildebeest and zebras move across the Serengeti in search of water and grazing."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Big Five",
+                        "description": "Spot the Big Five – lions, leopards, elephants, buffalo, and rhinos – during guided game drives."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Serengeti Plains",
+                        "description": "Explore the vast, open plains of the Serengeti and experience the stunning landscapes and wildlife."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Sunset Game Drives",
+                        "description": "Enjoy evening game drives to witness the Serengeti at sunset and see nocturnal wildlife."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from June to October for the Great Migration and excellent wildlife sightings."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Arusha or Kilimanjaro International Airport and transfer to Serengeti National Park."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in luxury lodges or tented camps within the park for an immersive safari experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring a good camera and binoculars for wildlife observation.",
+                            "Pack for both warm and cool weather conditions.",
+                            "Respect wildlife and follow park regulations to ensure a safe and enjoyable experience."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Serengeti Safari Today",
+                "description": "Join us for an unforgettable safari in Serengeti National Park. Contact us to book your tour and experience the magic of Tanzania’s wildlife.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more details or to customize your Serengeti safari, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 13
+    },
+    {
+        "_id": "66b9eff54d75da94468d4c26",
+        "img": "https://images.pexels.com/photos/18000463/pexels-photo-18000463/free-photo-of-rhinos-on-savannah-at-safari.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Ngorongoro Crater Safari",
+        "country": "Tanzania",
+        "price": 800000,
+        "duration": "4 days",
+        "shortDescription": "Explore the stunning Ngorongoro Crater, known for its rich wildlife and beautiful landscapes.",
+        "title": "Ngorongoro Safari",
+        "travellersLimit": 10,
+        "durationAndLimit": "4 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Ngorongoro Crater",
+                "content": "Visit the Ngorongoro Crater, a UNESCO World Heritage site and one of the most remarkable wildlife conservation areas in the world. Experience diverse wildlife in a stunning crater landscape."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Crater Wildlife",
+                        "description": "Observe a high density of wildlife, including lions, elephants, and rhinos, within the crater’s unique ecosystem."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Scenic Views",
+                        "description": "Enjoy panoramic views of the crater from the viewing points and experience the stunning landscape."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Cultural Visits",
+                        "description": "Visit nearby Maasai villages and learn about their traditional way of life."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Bird Watching",
+                        "description": "Discover a variety of bird species, including the endangered black rhinoceros."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from June to October for clear skies and optimal wildlife viewing."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Arusha and drive to Ngorongoro Crater, or arrange for a transfer from Kilimanjaro International Airport."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in lodges or camps on the crater rim or in nearby areas for easy access to the crater."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring warm clothing for cooler temperatures at high altitudes.",
+                            "Ensure your camera is ready for capturing stunning landscapes and wildlife.",
+                            "Follow park guidelines and respect local customs."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Ngorongoro Safari Today",
+                "description": "Embark on a unique safari experience in the Ngorongoro Crater. Contact us to book your tour and explore the wonders of Tanzania’s landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Ngorongoro safari, reach out to us. We’re here to assist with your plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 24
+    },
+    {
+        "_id": "66b9f2eb4d75da94468d4c2e",
+        "img": "https://images.pexels.com/photos/1054655/pexels-photo-1054655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Tarangire National Park Safari",
+        "country": "Tanzania",
+        "price": 700000,
+        "duration": "3 days",
+        "shortDescription": "Experience Tarangire National Park, known for its large elephant herds and diverse wildlife.",
+        "title": "Tarangire Safari",
+        "travellersLimit": 12,
+        "durationAndLimit": "3 days / Limited to 12 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Explore Tarangire National Park",
+                "content": "Discover Tarangire National Park, renowned for its large herds of elephants and iconic baobab trees. Enjoy guided game drives and experience the park’s unique landscape."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Elephant Herds",
+                        "description": "See large herds of elephants that gather around Tarangire’s water sources."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Baobab Trees",
+                        "description": "Admire the ancient baobab trees that dot the park’s landscape."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Bird Watching",
+                        "description": "Spot a variety of bird species, including the rare Kori bustard."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Scenic Drives",
+                        "description": "Enjoy scenic game drives through the park’s diverse habitats, from swamps to savannahs."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from June to October during the dry season for optimal wildlife sightings."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Arusha and drive to Tarangire National Park, or arrange for a transfer from Kilimanjaro International Airport."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in lodges or tented camps within or near the park for a memorable safari experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring a good camera and binoculars for wildlife observation.",
+                            "Dress in light, breathable clothing for daytime temperatures and warmer layers for the evening.",
+                            "Respect wildlife and follow park regulations."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Tarangire Safari Today",
+                "description": "Join us for a fascinating safari in Tarangire National Park. Contact us to book your tour and explore Tanzania’s wildlife and landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Tarangire safari, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [
+            {
+                "userId": "66dea90e85670b0d29328a7a",
+                "userName": "Balamurugan A",
+                "rating": 2,
+                "content": "jnjnsw",
+                "likes": 0,
+                "dislikes": 0,
+                "likedUsers": [],
+                "dislikedUsers": [],
+                "_id": "66decbd6861052235da1f44a",
+                "comments": []
+            }
+        ],
+        "__v": 1
+    },
+    {
+        "_id": "66b9f3804d75da94468d4c36",
+        "img": "https://images.pexels.com/photos/15320330/pexels-photo-15320330/free-photo-of-two-wildebeest-with-horns.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Selous Game Reserve Safari",
+        "country": "Tanzania",
+        "price": 400000,
+        "duration": "5 days",
+        "shortDescription": "Explore the remote and diverse Selous Game Reserve, known for its large herds of elephants and rich wildlife.",
+        "title": "Selous Safari",
+        "travellersLimit": 8,
+        "durationAndLimit": "5 days / Limited to 8 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Selous Game Reserve",
+                "content": "Venture into Selous Game Reserve, one of Africa’s largest and most pristine wildlife areas. Enjoy game drives, boat safaris, and walking safaris in this remote reserve."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Boat Safaris",
+                        "description": "Experience unique boat safaris on the Rufiji River, offering a different perspective on wildlife and bird watching."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Walking Safaris",
+                        "description": "Participate in guided walking safaris to explore the reserve’s landscapes and learn about its ecology."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Elephant Herds",
+                        "description": "Encounter large herds of elephants, along with other wildlife like lions, hippos, and giraffes."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Remote Wilderness",
+                        "description": "Enjoy the untouched and less crowded wilderness of Selous Game Reserve."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is during the dry season from June to October for wildlife viewing and easier access."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Dar es Salaam and transfer to Selous Game Reserve by light aircraft or road."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in lodges or tented camps within the reserve for a true safari experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack for both warm and cool weather, as temperatures can vary.",
+                            "Bring a good pair of binoculars for bird watching.",
+                            "Follow all safety guidelines provided by your guides and respect wildlife."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Selous Safari Today",
+                "description": "Discover the beauty of Selous Game Reserve with us. Contact us to book your safari and experience the wildlife and landscapes of Tanzania.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Selous safari, reach out to us. We’re here to help with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 7
+    },
+    {
+        "_id": "66b9f3f74d75da94468d4c3e",
+        "img": "https://images.pexels.com/photos/1316297/pexels-photo-1316297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Kruger National Park Safari",
+        "country": "South Africa",
+        "price": 900000,
+        "duration": "5 days",
+        "shortDescription": "Explore Kruger National Park, one of South Africa’s premier wildlife destinations, known for its Big Five sightings.",
+        "title": "Kruger Safari",
+        "travellersLimit": 10,
+        "durationAndLimit": "5 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Experience Kruger National Park",
+                "content": "Discover the rich wildlife and diverse landscapes of Kruger National Park, known for its excellent game viewing opportunities and the Big Five."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Big Five Game Drives",
+                        "description": "Embark on game drives to spot the Big Five – lions, leopards, elephants, buffalo, and rhinos."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bush Walks",
+                        "description": "Experience guided bush walks to learn about the park’s flora and smaller wildlife."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Panoramic Views",
+                        "description": "Enjoy scenic views of the park’s diverse landscapes, including savannahs, bushveld, and river systems."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Night Drives",
+                        "description": "Participate in night drives to see nocturnal animals and the park’s vibrant nightlife."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from May to September during the dry season for optimal wildlife viewing."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Johannesburg or Kruger Mpumalanga International Airport and transfer to Kruger National Park by road or light aircraft."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from a range of accommodations within the park, including rest camps, lodges, and private game reserves."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring a good pair of binoculars and a camera for wildlife photography.",
+                            "Pack light, breathable clothing for daytime and warmer layers for the evening.",
+                            "Follow all park guidelines and respect wildlife."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Kruger Safari Today",
+                "description": "Experience the wonders of Kruger National Park with us. Contact us to book your safari and explore South Africa’s premier wildlife destination.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Kruger safari, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 0
+    },
+    {
+        "_id": "66b9f4b54d75da94468d4c46",
+        "img": "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Cape Town and Winelands Tour",
+        "country": "South Africa",
+        "price": 700000,
+        "duration": "4 days",
+        "shortDescription": "Explore the stunning city of Cape Town and the renowned Winelands region, known for its vineyards and scenic beauty.",
+        "title": "Cape Town and Winelands",
+        "travellersLimit": 12,
+        "durationAndLimit": "4 days / Limited to 12 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Cape Town and the Winelands",
+                "content": "Explore Cape Town’s iconic landmarks and the picturesque Winelands region. Enjoy wine tastings, scenic drives, and cultural experiences."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Table Mountain",
+                        "description": "Ride the cable car to the top of Table Mountain for panoramic views of Cape Town and the surrounding coastline."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Cape Peninsula",
+                        "description": "Drive along the scenic Cape Peninsula route to see landmarks like the Cape of Good Hope and Boulders Beach."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Winelands Tour",
+                        "description": "Visit the renowned wine estates of Stellenbosch, Franschhoek, and Paarl for wine tastings and gourmet dining."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Cultural Experiences",
+                        "description": "Explore Cape Town’s cultural sites, including the V&A Waterfront, Robben Island, and local markets."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from October to April for warm weather and clear skies."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Cape Town International Airport, which is well-connected to major cities around the world."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from a range of accommodations in Cape Town and the Winelands, from luxury hotels to charming guesthouses."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack sunscreen, sunglasses, and a hat for sun protection.",
+                            "Bring comfortable walking shoes for exploring.",
+                            "Respect local customs and be mindful of safety guidelines."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Cape Town Tour Today",
+                "description": "Experience the beauty of Cape Town and the Winelands with us. Contact us to book your tour and enjoy South Africa’s vibrant culture and stunning landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Cape Town tour, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 0
+    },
+    {
+        "_id": "66b9f56a4d75da94468d4c4e",
+        "img": "https://images.pexels.com/photos/1486036/pexels-photo-1486036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Garden Route Adventure",
+        "country": "South Africa",
+        "price": 800000,
+        "duration": "6 days",
+        "shortDescription": "Explore South Africa’s Garden Route, known for its stunning landscapes, charming towns, and outdoor activities.",
+        "title": "Garden Route Adventure",
+        "travellersLimit": 12,
+        "durationAndLimit": "6 days / Limited to 12 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover the Garden Route",
+                "content": "Embark on an adventure along the Garden Route, renowned for its diverse scenery, from forests to beaches. Enjoy outdoor activities and explore charming towns."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Knysna Heads",
+                        "description": "Visit the iconic Knysna Heads for breathtaking views of the Indian Ocean and the Knysna Lagoon."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Tsitsikamma National Park",
+                        "description": "Explore Tsitsikamma National Park’s lush forests and dramatic coastline, including a canopy tour and the Storms River Mouth."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Plettenberg Bay",
+                        "description": "Relax in the beautiful beaches of Plettenberg Bay and enjoy activities like whale watching and nature hikes."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Oudtshoorn Caves",
+                        "description": "Discover the Cango Caves in Oudtshoorn and marvel at the stunning underground formations."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from October to April for pleasant weather and optimal outdoor activities."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into George or Cape Town International Airport and start your Garden Route adventure from there."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from a variety of accommodations along the Garden Route, including guesthouses, hotels, and lodges."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack layers for varying weather conditions along the route.",
+                            "Bring a camera for capturing the stunning scenery.",
+                            "Be prepared for some outdoor activities and hikes."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Garden Route Adventure Today",
+                "description": "Experience the natural beauty of South Africa’s Garden Route with us. Contact us to book your adventure and explore this diverse and scenic region.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more details or to customize your Garden Route adventure, reach out to us. We’re here to help with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 0
+    },
+    {
+        "_id": "66b9f73e4d75da94468d4c56",
+        "img": "https://images.pexels.com/photos/3498323/pexels-photo-3498323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Okavango Delta Safari",
+        "country": "Botswana",
+        "price": 900000,
+        "duration": "4 days",
+        "shortDescription": "Experience the pristine Okavango Delta, renowned for its water-based safaris and diverse wildlife.",
+        "title": "Okavango Delta Safari",
+        "travellersLimit": 8,
+        "durationAndLimit": "4 days / Limited to 8 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Explore the Okavango Delta",
+                "content": "Discover the Okavango Delta, a unique inland delta known for its rich wildlife and scenic waterways. Enjoy mokoro rides, guided game walks, and luxurious camp stays."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Mokoro Safari",
+                        "description": "Navigate the delta’s channels in a traditional mokoro canoe, offering close-up views of waterbirds and hippos."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Walking Safaris",
+                        "description": "Explore the delta on foot with experienced guides, observing smaller wildlife and learning about the local ecosystem."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Scenic Flights",
+                        "description": "Take a scenic flight over the delta to appreciate its expansive wetlands and diverse landscapes from above."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Luxury Camps",
+                        "description": "Stay in high-end camps that offer comfort and excellent views of the delta’s wildlife and scenery."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from May to October when the water levels are high, and wildlife viewing is at its peak."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Maun and transfer to the Okavango Delta by light aircraft or charter flight."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from luxurious lodges and tented camps located within or near the delta for an immersive experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack lightweight, breathable clothing and a hat for sun protection.",
+                            "Bring binoculars and a camera for wildlife and landscape photography.",
+                            "Be prepared for possible wet conditions and pack accordingly."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Okavango Delta Safari Today",
+                "description": "Immerse yourself in the natural beauty of the Okavango Delta. Contact us to book your safari and experience one of Botswana’s most incredible wildlife destinations.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Okavango Delta safari, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 13
+    },
+    {
+        "_id": "66b9f7b44d75da94468d4c5e",
+        "img": "https://images.pexels.com/photos/674053/pexels-photo-674053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Chobe National Park Safari",
+        "country": "Botswana",
+        "price": 700000,
+        "duration": "3 days",
+        "shortDescription": "Explore Chobe National Park, famous for its large elephant herds and diverse wildlife.",
+        "title": "Chobe Safari",
+        "travellersLimit": 10,
+        "durationAndLimit": "3 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Chobe National Park",
+                "content": "Experience Chobe National Park, renowned for its large herds of elephants and variety of wildlife. Enjoy game drives and boat safaris on the Chobe River."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Elephant Herds",
+                        "description": "Witness some of Africa’s largest elephant herds congregating along the Chobe River."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Boat Safaris",
+                        "description": "Enjoy boat safaris on the Chobe River, offering unique views of wildlife and birdlife from the water."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Game Drives",
+                        "description": "Embark on guided game drives to spot a variety of animals, including lions, leopards, and buffalo."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Bird Watching",
+                        "description": "Spot a diverse range of bird species, including the vibrant African fish eagle and various kingfishers."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is during the dry season from May to October when wildlife viewing is optimal."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Kasane and transfer to Chobe National Park by road or arrange for a charter flight."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in lodges or tented camps within or near the park to maximize your safari experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack comfortable clothing and sun protection for daytime safaris.",
+                            "Bring a camera and binoculars for capturing wildlife sightings.",
+                            "Respect wildlife and follow park regulations for a safe experience."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Chobe Safari Today",
+                "description": "Discover the wonders of Chobe National Park with us. Contact us to book your safari and experience Botswana’s incredible wildlife and landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more details or to customize your Chobe safari, reach out to us. We’re here to help with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 2
+    },
+    {
+        "_id": "66b9f9054d75da94468d4c66",
+        "img": "https://images.pexels.com/photos/672706/pexels-photo-672706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Moremi Game Reserve Safari",
+        "country": "Botswana",
+        "price": 500000,
+        "duration": "5 days",
+        "shortDescription": "Explore Moremi Game Reserve, a pristine wilderness area known for its diverse habitats and rich wildlife.",
+        "title": "Moremi Safari",
+        "travellersLimit": 8,
+        "durationAndLimit": "5 days / Limited to 8 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Moremi Game Reserve",
+                "content": "Explore Moremi Game Reserve, located in the Okavango Delta region, known for its diverse wildlife and landscapes, including floodplains, woodlands, and savannahs."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Diverse Wildlife",
+                        "description": "Encounter a wide range of wildlife, including lions, leopards, elephants, and wild dogs."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Floodplain Exploration",
+                        "description": "Explore the seasonal floodplains and see the unique wetland wildlife and bird species."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Game Drives",
+                        "description": "Enjoy guided game drives through diverse habitats, from open savannahs to dense forests."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Scenic Views",
+                        "description": "Admire the scenic beauty of Moremi’s landscapes, including river systems, lagoons, and the delta’s greenery."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from May to October when wildlife viewing is at its best due to lower water levels and concentration of animals."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Maun and transfer to Moremi Game Reserve by light aircraft or road."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in luxury lodges or tented camps within or near Moremi Game Reserve for an immersive experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack for varying weather conditions, including cooler evenings and warm days.",
+                            "Bring insect repellent and sun protection.",
+                            "Follow all park regulations to ensure a safe and respectful wildlife encounter."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Moremi Safari Today",
+                "description": "Experience the beauty and diversity of Moremi Game Reserve. Contact us to book your safari and explore one of Botswana’s most stunning wildlife destinations.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Moremi safari, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 0
+    },
+    {
+        "_id": "66b9f9a74d75da94468d4c6e",
+        "img": "https://images.pexels.com/photos/2017490/pexels-photo-2017490.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Etosha National Park Safari",
+        "country": "Namibia",
+        "price": 1000000,
+        "duration": "5 days",
+        "shortDescription": "Explore Etosha National Park, renowned for its salt pans and abundant wildlife, including the Big Five.",
+        "title": "Etosha Safari",
+        "travellersLimit": 10,
+        "durationAndLimit": "5 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover Etosha National Park",
+                "content": "Experience Etosha National Park, a vast salt pan surrounded by diverse wildlife. Enjoy game drives, waterhole viewing, and stunning landscapes."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Salt Pans",
+                        "description": "Explore the impressive salt pans of Etosha, a unique feature of the park and an excellent location for wildlife spotting."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Game Drives",
+                        "description": "Embark on guided game drives to see the Big Five and other wildlife, such as giraffes, zebras, and antelopes."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Waterhole Viewing",
+                        "description": "Observe wildlife at various waterholes, where animals gather to drink, offering fantastic photographic opportunities."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Etosha Sunset",
+                        "description": "Enjoy breathtaking sunsets over the salt pans and the park’s landscapes, a perfect end to each day."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from May to October during the dry season, when wildlife is concentrated around waterholes."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Windhoek and transfer to Etosha National Park by road or light aircraft."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Stay in lodges or camps within the park or nearby for easy access to the wildlife and attractions."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack sun protection, including sunscreen, a hat, and sunglasses.",
+                            "Bring binoculars and a camera for wildlife observation and photography.",
+                            "Prepare for variable temperatures and pack accordingly."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Etosha Safari Today",
+                "description": "Explore the unique landscapes and wildlife of Etosha National Park with us. Contact us to book your safari and experience Namibia’s premier wildlife destination.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Etosha safari, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 2
+    },
+    {
+        "_id": "66b9fa3e4d75da94468d4c76",
+        "img": "https://images.pexels.com/photos/60692/bird-animal-nature-strauss-60692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Skeleton Coast Adventure",
+        "country": "Namibia",
+        "price": 500000,
+        "duration": "6 days",
+        "shortDescription": "Discover the rugged beauty of Namibia’s Skeleton Coast, known for its shipwrecks, dramatic landscapes, and wildlife.",
+        "title": "Skeleton Coast Adventure",
+        "travellersLimit": 8,
+        "durationAndLimit": "6 days / Limited to 8 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Explore the Skeleton Coast",
+                "content": "Experience the desolate yet stunning Skeleton Coast, characterized by its shipwrecks, sand dunes, and desert-adapted wildlife. Enjoy scenic flights, guided tours, and unique landscapes."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Shipwrecks",
+                        "description": "Explore historic shipwrecks along the coast, remnants of maritime history in this remote region."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Desert Wildlife",
+                        "description": "Spot desert-adapted wildlife, including oryx, springbok, and the elusive desert elephant."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Scenic Flights",
+                        "description": "Take a scenic flight over the Skeleton Coast for stunning aerial views of the dunes, coastline, and shipwrecks."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Damaraland Exploration",
+                        "description": "Explore the rugged landscapes of Damaraland, including the famous Twyfelfontein rock engravings and ancient geological formations."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from May to September during the cooler, dry season."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Windhoek and transfer to the Skeleton Coast by light aircraft or road."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from luxury lodges and camps along the Skeleton Coast and in Damaraland for an immersive experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Pack warm clothing for the cooler coastal temperatures.",
+                            "Bring a camera and binoculars for capturing the dramatic landscapes and wildlife.",
+                            "Prepare for remote conditions and ensure all travel arrangements are confirmed."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Skeleton Coast Adventure Today",
+                "description": "Discover the wild and rugged Skeleton Coast with us. Contact us to book your adventure and experience Namibia’s most remote and fascinating destination.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more information or to customize your Skeleton Coast adventure, reach out to us. We’re here to help with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 0
+    },
+    {
+        "_id": "66b9fb2a4d75da94468d4c88",
+        "img": "https://images.pexels.com/photos/25185781/pexels-photo-25185781/free-photo-of-lemur-on-wooden-swing.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Sossusvlei Dunes Experience",
+        "country": "Namibia",
+        "price": 400000,
+        "duration": "4 days",
+        "shortDescription": "Explore the iconic Sossusvlei dunes, famous for their towering sand dunes and surreal desert landscapes.",
+        "title": "Sossusvlei Dunes",
+        "travellersLimit": 10,
+        "durationAndLimit": "4 days / Limited to 10 travelers",
+        "sections": [
+            {
+                "id": "intro",
+                "title": "Discover the Sossusvlei Dunes",
+                "content": "Experience the mesmerizing landscapes of Sossusvlei, known for its towering red sand dunes and stark desert beauty. Enjoy climbing the dunes, exploring the Deadvlei, and scenic drives."
+            },
+            {
+                "id": "highlights",
+                "title": "Tour Highlights",
+                "highlights": [
+                    {
+                        "id": 1,
+                        "title": "Dune Climbing",
+                        "description": "Climb some of the world’s highest sand dunes, including Dune 45, for stunning views of the desert landscape."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Deadvlei Exploration",
+                        "description": "Explore Deadvlei, a striking white clay pan surrounded by towering dunes and ancient camel thorn trees."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Scenic Drives",
+                        "description": "Enjoy scenic drives through the Namib Desert, with views of the colorful dunes and rugged terrain."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Sunrise and Sunset",
+                        "description": "Witness the breathtaking sunrise and sunset over the dunes, with changing colors and dramatic shadows."
+                    }
+                ]
+            },
+            {
+                "id": "visit-info",
+                "title": "Planning Your Visit",
+                "info": [
+                    {
+                        "title": "Best Time to Visit",
+                        "description": "The best time to visit is from May to October during the cooler, dry season."
+                    },
+                    {
+                        "title": "How to Get There",
+                        "description": "Fly into Windhoek and transfer to Sossusvlei by road or light aircraft."
+                    },
+                    {
+                        "title": "Where to Stay",
+                        "description": "Choose from luxury lodges or camps in the Sossusvlei area for an immersive desert experience."
+                    },
+                    {
+                        "title": "Important Tips",
+                        "tips": [
+                            "Bring sun protection, including sunscreen, a hat, and sunglasses.",
+                            "Pack comfortable clothing and sturdy shoes for dune climbing.",
+                            "Carry plenty of water and stay hydrated in the arid desert environment."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "contact",
+                "title": "Book Your Sossusvlei Dunes Experience Today",
+                "description": "Explore the stunning Sossusvlei dunes with us. Contact us to book your adventure and witness one of Namibia’s most iconic landscapes.",
+                "contact": {
+                    "title": "Contact Us",
+                    "description": "For more details or to customize your Sossusvlei experience, reach out to us. We’re here to assist with your travel plans."
+                }
+            }
+        ],
+        "reviews": [],
+        "__v": 0
+    }
+]
